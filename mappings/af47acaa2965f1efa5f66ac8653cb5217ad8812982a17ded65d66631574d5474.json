@@ -1,0 +1,64 @@
+{
+    "policy": "82008200581cc5e220b4723acae03c2e206f4217a9151eefd6ce7a1083c4c592e6a7",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "8b9b3b54042036abd9b5d09d07b385f19d8c30c58eb008406d7eab283c9bef00f6368a2676b8c8ebe0bc80a47ba14e1f9bcdb3771f534d976be71c12cdc9f301"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "WMTt"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "b917137aa384154a3c43af59335b0f1bdece616abd8b8cabd11e53325175110242bc09d8ce24862ed7f75532127a32264b611fca54bf04d21f4c7b545534e508"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://worldmobiletoken.com/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "840cc82833a76acab390fdd666261e0e137ff752287aeb50eacf6641d6513f54e49951a95c185cf138c7f72a506d245f838e40e60f3ed960a1273af54ac14607"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ErgoDEX Cardano testnet token"
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "9b96a593da2b913045afbeb71a53bf98bc488adc1fd118be3c3ceb7e1f4d460233137ec6ef9cb1e61d907854bb21e2c45ba48c6477739d8325969f244a41b40e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "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"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "cf6d55ede52802c7c4b0e76ff6114a84fdde2d08dcfb15fafc4d3b49862438acb996c1d04a5571000bea8a44b818ec6726041d9e59a86c1e1696a72608620d00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "WMTt"
+    },
+    "subject": "af47acaa2965f1efa5f66ac8653cb5217ad8812982a17ded65d66631574d5474",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "d39b51f84a74c0af9c4c35df027734f4eb1d1041ef3f83e7f49ac3fdf653714a680293254f79b1f8f0bdbf3a6d389bc9e925aa0052a777bb93a37542c2632701"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
