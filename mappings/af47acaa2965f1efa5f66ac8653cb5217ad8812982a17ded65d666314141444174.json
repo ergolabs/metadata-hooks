@@ -1,0 +1,64 @@
+{
+    "policy": "82008200581cc5e220b4723acae03c2e206f4217a9151eefd6ce7a1083c4c592e6a7",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "6f5d6cb9e9368b5dda8d53f9b42e6ef1734f1bba4578d59e40caea63ac3adb18a60d0da7b8e22d0ed61132d903e81f1e53b43850be6f120408a777f308e1cc0e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "AADAt"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "3f2fdb2ea86e3d216355d28c49185f412932d06ecb8b7656e02dba735a1bc190c5024893f2eee7d02153f5c10e497fc41cbb1c20ce29bb0c9fde7562595a030e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://aada.finance/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "bd13fcec3f5662b8b8cc0917a3af6f9da3b40fbedd3c56e99fb34f44b0f8efeb6ac782c1eda798053fc471e8f3e65c52a76f21a274cef2d47d3983b9916eca02"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ErgoDEX Cardano testnet token"
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "662723a5169d900d0f8c5086f0ab937f8fd59cc97ed93d498ff8ff96c51fd65f641247b973b0b399c32228f823b62282270f381b2074ceb82187dd43a9d9a70c"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "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"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "26d04117c72f363c981220c7b16c6e527f7724bd4610922035c6a962fb9d594f74a9f97f02bab35f7af85b1da2accba3e6c043ce179c0992c41d0103e998d909"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "AADAt"
+    },
+    "subject": "af47acaa2965f1efa5f66ac8653cb5217ad8812982a17ded65d666314141444174",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "4cd0c6ae1c7c53d7ee014b07073d74b3e7aec7c07c8a11269ec24921b12cb75cbc85d3b7ea3a0e830e4726693318ffa0bcb017a58139b17a8ef83f1c84a40200"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
