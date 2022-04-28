@@ -1,0 +1,64 @@
+{
+    "policy": "82008200581cc5e220b4723acae03c2e206f4217a9151eefd6ce7a1083c4c592e6a7",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "a7ec82d8a08ef6babf5027991cd4a7450bf8f2e2462f92f94d5e025243a98c6c763d10b436264672c17c67bbe374ceb22e86b1e225b2ebf80aa721e45804b20e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "HOSKYt"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "febbdd9736b2b48ac451c994f410174b039d3e43e812cab49672cab283a43c5989072011747dc0db7a4887affb2f55fbaf8f3a45b7aea33c0e17a2b682e25401"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://hosky.io/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "08ea55974465f8eb92930f0c87a993f1d43105e3921fc1e1d52a2ac1f9953de6c0b315ce3a17fcfc74c37e38446ca1e7f594127582be21fab7fdeef46d72080d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ErgoDEX Cardano testnet token"
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "7250766285d88c028414f0115de1c9280028fdf88e2cf8f3ab091dcf994292f62cc846ca79b1947ae77167c3a04c42083441a0c58cc9a09d42dc1c6aa0205a09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "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"
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "1d630b73674dabe1ade8b96e81fe8e08e1ce1b4b15509bdb3882d331e802b3eea6593823fa110335cc1ea39c4b8d252e48f40dd86ad4f182ffd7952b3edac50e"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "HOSKYt"
+    },
+    "subject": "af47acaa2965f1efa5f66ac8653cb5217ad8812982a17ded65d66631484f534b5974",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "8fdc597afe875448f840293ec377798f9ff804ca30469ffe992f12d98e74f139180df61face34dfb778e789bde84ff77562e5e041aabf4007f6cebd973fafa07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
