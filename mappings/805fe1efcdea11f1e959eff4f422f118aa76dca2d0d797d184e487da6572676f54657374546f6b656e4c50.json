@@ -4,11 +4,11 @@
         "signatures": [
             {
                 "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
-                "signature": "d79462e91661c0e43678f4c377a1c85388c3420ce7f031902c207818fc4ca833d2a3335148747826fb0f29ea411d5f8e171cc9114df59d92cb23162e541a9d0b"
+                "signature": "4c995431155a0c76759a9ecc74f2f464f0f5ad09ce2b7c3cb6983a1c4197bbf1920b862eaeea38832256b129f5e71fc7b87f168e2511d22ccf3209860914d601"
             }
         ],
         "sequenceNumber": 0,
-        "value": "ergoTestTokenA"
+        "value": "ergoTestTokenLP"
     },
     "url": {
         "signatures": [
