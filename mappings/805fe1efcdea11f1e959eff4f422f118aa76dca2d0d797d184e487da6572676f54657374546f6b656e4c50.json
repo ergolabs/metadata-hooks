@@ -1,0 +1,64 @@
+{
+    "policy": "82008200581c0df8c58f2bf3d5ae85661eedd124e36b4a4ac65221a8cbb7b7a9d228",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
+                "signature": "d79462e91661c0e43678f4c377a1c85388c3420ce7f031902c207818fc4ca833d2a3335148747826fb0f29ea411d5f8e171cc9114df59d92cb23162e541a9d0b"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ergoTestTokenA"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
+                "signature": "943af032c5a8f7f9e27de0ad7275049b4ca6cbcfd60f603f5e27df0b3e5367b647c8396fd820325cbcf6790b87d418aface8520bb916736122478f99eecb8609"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://ergodex.io/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
+                "signature": "59fb7ea1c3140e5ac22081bc47847c108155546f29d7e1cfcc8c4c0f2829b82d72342f2b4296cb0aeba5d83bd55d2c28ef74cf835a6d5228485231f85c744f09"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ergoTestTokenLP"
+    },
+    "logo": {
+        "signatures": [
+            {
+                "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
+                "signature": "fac959daa23ab65a36d3ee52fe5e48753104ddfb4330adff5627c4a60d891de79badcd95176008358a1759c696fb7acb451a0d7216da8a318ba2a0939541e609"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAo7SURBVHgB7Z1prF1VFcf/DnVARXAEQR8aRTSiFBRFRTASUIOxitGogReLLYIakNpY0S98ICQoSoJabMH3rIoatQ5xwIjWOCEOBUrCTF+gzPNMgdKyft33htvXe87a5559hnfv/Sf/L++dc+4+e5+99tpr2tLcw07GhcZ/GR81XmycNO6qMSrFfONy4xXGLX24wbjKeIjxWRojCeYZDzWuNj6g/h0/m8yKtcbFxpdpjIHwUuMy4z8U1+lZZFZMGQ83Pl1juNjLeJrxdpXr+NncbLzQ+DnjCzTGNnia8Z3GXxofVtqO78d7jWcY32J8ikYYaDNfNl6r6js9i1cajzW+XCMCvvZXK4iZGxVEw5YW8Gbjt4xv1pDOih2NHzT+zbhRaTrtMeN6pRVbm4yXG5cYX6QhwHOMi4wXKd3XTietUdBsnm18m/Fs4/2Jnt/ljZ3nvk5zEPsYz1HaTrnVeKrxlRm/yZryEeNfE/5md8DXGU80Pk8tBvJ9gfE8pZXtmBqOUZhNsXi98fsKX3HKwXhIYTe+X+d9W4HdjUsV9OxU8v1B44+NH1YQM4Nit07bzldYM1INxMbOM48yTqihhXtf40rjLUr3YjPGbyrI3ZQvNa/T3u8q/SbvTuMnVTM+YbxP6ab1PxW+1JeoejBjTzD+XelmBZu7fVUTJhRGvWyjUR/PNR6sZqbwM4z7G89U6MCy77NSNeFIlWso2gwbsTapdzsbj1dY8AdVIHiv3VUxWPn/rOKN29y5D9G1h9qLHRT2Fd/RYGvbUlUM1K8img5i5mfGd2vuOUl2MR5nvETxswJNsFL1dHlEI2js9cavGN+kuY/nKqxT3zbeJf+DW6CKgD3nQacBLM6LOo0eRnxa/mz4oyrCF+R//WdquMFu/Dr5EmC+KsC6iB8+SMOPk+R/iN9TYqAyepsWVLhhFT29eKPC5jGvLwggKGK7cnG2/FE/VqODn8rvj8VKBBwTnlXxJoVIhlHBwfIXYyTCjkqAJRovvrOBhRZrqNcvpVVSbDSXy19899fgiNGuquLJGhwfj3g+Br/cjdlTlQ8sfK9xrmGqXarBMVed4Fhwb3Ou4cN8Vd4F3gB8Sv7WekphBzhqYLc/5VyDxTV3Mc4bAGJljlA+MOOu0uhi2viIcw0GyJ2y/pk3AEQd7KJ80Pn3anRBpPYvnGsIED4u659ZA4BcPkH5IFrgBxpjhXwRjA2pryjPGgAixLzF9wKFBXjUQbDZWucaQmkO6PePrAHAyexpJz9XME+UxWbNbaBu/iriuiX9/tivkwnfnlH+Lu4OBVv/TSoPZCSDeUCBey5TSFEqi98prvM8vNj4H+V7+3BkYSW9Qg6Iofc2GMuVFhMK4ix2A4X+/R61C9+Q3+6vew8hi+RC5yGkAFVh72bNWa/4QcAuv5fag9fKd1ghOXJtZqienpHpT6ou3YeQwmsUPwh44GqLx3GAOCfMxmvzsryHTEc84IuqFnuqWEznjNozEz4kv73kvfX9gFkMNzg30zG7qXogjoqEhWAwbEOcEZEfhOJ77T2s382LI26cVn04UCHYKXYQ0C7qCG30QCS319bVs2/Cvh0zcnV/ZawJRcIgscrurGZBcJc3e3FZbrN2kV3+qHPTGjWD96pY7Ob/1Lx37lT57Tyr94ZVETd4ltEqgcyMzZSHaGovVHPA9LBJvsjcaiWlyIW3+N6nHJNqTUDD8PTsXv7G+Hw1h7/Ib+PRXDgZceEKtQNEZt+j+EFAL99BzYA9lRfKg0HTNQFgan2r2oNTFD8A8KNqBqik3s5+qzHTG6Vr1Z7IZqKzsQPFdv6vjc9UM+Cj9XKYibzealX0Rul9ah6obfhhYzuf2hNNJluvkN/GSS5cGHHh+WoWuEa9oNheUgOiyaooLP5eDh2Kz67di73YH2bBHmoGmD4uUHznM60n1CyOkN/Obdy5MYkXp6h+xEag9X5VbTDMrVF+O9n0HtJ7A/LV2+hQUaROlY7c3rMU3/lELL9dzQNzjddWzD7bJaCvjrgxWcSvA3zVLGKxuVl3G9+hdmBafnuP6XfjYRE3/l/1qKSkjMZ2PqrekWoHWK88X8YNyiixyZSPKZJXWRJaB+SYxWawP9a5vi3AWeW1eSrvAcsiHvAjVRdQS1EnL/ukS4xdJ6s9wb18wBgB89rMrD487yGYcb1iFizWeyo9SJD20kB7X+R0+cHFdYJABc+k/29F+NNPk98BbnhFQRQ1MWBkK1PGpgrEqPKfnX1Tv+mLHk2oXd4LzijYOm5XeRCF/XvjGyKvR+7/QWGnWRaYK1arPFh8MWrmmT5oL7kCdyoCNMwbzROVBl9V/JefmmUyZHpxfMRvndHvxiwZerp8UM0qxQI4T3MbJGF43sKu8rIdsgYA28t65YPd84EagxhZL671agVf9XbIGoDHFaoeblE2WCPq2hm3GWwCPc0G8dO3L/PUOGrm3Kx8MPXaFJ9ZN7AkH+VcQ4jKb7P+mTcA+F7PVT4wS0xqdEHne45/tKwNWf/0NjJUGfSS0MikfIVGD4jghc41iPLpvAs82TVj/K9CefkssHvGDHy9BgN6/UY1g00aHHvLL0iVufgWAfYZT8fFBjJq57ZQbd3rlySR5NRL9kJXRqVWUBfMehSUvD7BLJ0sKGCR/NH+iUYHn5HfH0nriFJ8yHNZEja4t4YfFKXyJAJrS/JI8nPkj/pJGn4cJN9bt04VYL78ASB2J2mprhaC2kheP6QyVG6H8+QvxkdrOMGHhd7vJYzg0UtSKasf8Ad7lXNpIF/JuzQcs4F1jdOemN0xgQKpc6i3AQUnvDzi3tlA/AshGG3I3SoC9jR8QGh2sT5qSITGfqoYSws0qEtKGjArqCDVNldiLzCpfExhYzlIFXWi+Co/2gT3W5HsxdmzAncn5RCazF6ZDSy65HWVPQ2ktviklSrXUIi1FTs5pXGa8IrhzcOh9EOlOYuMtW9CNQFvWIpTJyDGOGrufF71HD9LZRPURCoaFsk5yyN9QWmyWmOU+MEUR5n0ktAUHEGcQ5ZyVtAxxDLh6y5SEMQjIosY1sbqVUwoOCU4HSPVEVaQACcWQooclZkVaDOozjjEi6S55pH3RBNEGamjbEMUWPlRv9CBi6htMcSqOKVirk/C6PFXr03cFuKRFqhFh7j1A7tAZCz2EC9ZuQi759AQDpOlQU0oJJJ4puIi5DhGipfvozkILII0PvWRgkSZIXuJzkPMvF9hcFKdC9bdRGKGbyrPOClwTCDPyUVLOStQHynwlKrjke9oZHgBW31w56BAG+EocQ7ESSkmyn7tJE0QlMxh062W7ylBUC6HPlyl5k7WZvZgaGu6Dkaj6M4KdsWpNnee2CL4mEiPNuUXtAKUmCGGPtbiWoSE0n9NobrhGA6IV/qAQlAT8rlMx5P39iWN1hErSUFGIZsq1EIvBahLdr1UNT9U1ZXYHDngRyC7nOpeWQWmqELFbrySg9TGeBLMikmFuhDsAaj4Qoxqm3wMUXgC/79CCtep8yEAAAAASUVORK5CYII="
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
+                "signature": "0276b61309f59902152c48860a06052adf10dac165c37523c312e2d88f6a1ec4e8a796bad00bdc323916c797b8f1345dc6e71400c58c40cf0faa3b2eac7eff07"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ERGLQ"
+    },
+    "subject": "805fe1efcdea11f1e959eff4f422f118aa76dca2d0d797d184e487da6572676f54657374546f6b656e4c50",
+    "decimals": {
+        "signatures": [
+            {
+                "publicKey": "029c5c6886362bd254d01e4468ea0226755b7c0aec4c35e5646469c469600500",
+                "signature": "4036dc1ce35c57fc77a503208ecf9ec98237836e6992306b7dd2b0cb6fde7b4be12ed1c6e1d21f2fda68b0024e11c489e7af4828122b416886d2fb2116125b00"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": 6
+    }
+}
