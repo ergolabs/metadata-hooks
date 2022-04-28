@@ -1,0 +1,46 @@
+
+{
+    "policy": "82008200581cc5e220b4723acae03c2e206f4217a9151eefd6ce7a1083c4c592e6a7",
+    "name": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "75c7514e12564b9bd9393439babb676934b8de3e6c82da1b2053943cbf93cd2a0443c8c5e257c32388c47e0cf0fa83b57535a2470c64a4dddb20529208d31202"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ErgoLQ"
+    },
+    "url": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "312609fa7549d7b3e4cf92a4ade3c54024b89925870e104b1de2786dda30bd813b4f823e8b4dab4b1cdf03a7e0e2edf3ec97a4ab8027582540b332346289b30d"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "https://ergodex.io/"
+    },
+    "description": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "06f4dd4f757615b9cbe5916998edd6e675954cd8d38ca7fba4e8dc327f4a3fc45e68c21795358323b4c998fc8945654d11fa926899395e01b0135bd831aea508"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "This is ergo dexd lq tokens."
+    },
+    "ticker": {
+        "signatures": [
+            {
+                "publicKey": "4b5fe6640b93e4d4d39156b361b7ed9a33a648ca0d85f83d04b66468dc3a98e6",
+                "signature": "f42fac9204366d772667570613f3b08734dff77e759a67d2e2d839a232a3ff06ec5b8314dcd05b87677ddfaf6ffb8769e7f5f25e394d26b54f8ef484474b9000"
+            }
+        ],
+        "sequenceNumber": 0,
+        "value": "ERGLQ"
+    },
+    "subject": "af47acaa2965f1efa5f66ac8653cb5217ad8812982a17ded65d666316c715f6572676f5f646578"
+}
+
